@@ -1,0 +1,60 @@
+C:/Users/Henry/Documents/workspace/5462/pj_complete/pj4.vhdl {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Henry/Documents/workspace/5462/pj_complete/pj4.vhdl
+Model Technology ModelSim PE Student Edition vcom 10.3c Compiler 2014.07 Jul 19 2014
+-- Loading package STANDARD
+-- Compiling architecture logic of eightBitALU
+-- Loading entity eightBitALU
+-- Compiling entity p4
+-- Compiling architecture test of p4
+-- Loading entity eightBitALU
+
+} {} {}} C:/Users/Henry/Documents/workspace/5462/pj_complete/pj1.vhdl {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Henry/Documents/workspace/5462/pj_complete/pj1.vhdl
+Model Technology ModelSim PE Student Edition vcom 10.3c Compiler 2014.07 Jul 19 2014
+-- Loading package STANDARD
+-- Compiling entity generic_function
+-- Compiling architecture behavioral of generic_function
+-- Compiling entity p1tb
+-- Compiling architecture test of p1tb
+-- Loading entity generic_function
+
+} {} {}} C:/Users/Henry/Documents/workspace/5462/pj_complete/pj5_new.vhdl {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Henry/Documents/workspace/5462/pj_complete/pj5_new.vhdl
+Model Technology ModelSim PE Student Edition vcom 10.3c Compiler 2014.07 Jul 19 2014
+-- Loading package STANDARD
+-- Compiling architecture process_new of eightBitALU
+-- Loading entity eightBitALU
+-- Compiling entity p5
+-- Compiling architecture test of p5
+-- Loading entity eightBitALU
+
+} {} {}} C:/Users/Henry/Documents/workspace/5462/pj_complete/pj2.vhdl {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Henry/Documents/workspace/5462/pj_complete/pj2.vhdl
+Model Technology ModelSim PE Student Edition vcom 10.3c Compiler 2014.07 Jul 19 2014
+-- Loading package STANDARD
+-- Compiling entity carryChain
+-- Compiling architecture behavioral of carryChain
+-- Compiling entity oneBitALU
+-- Compiling architecture behavioral of oneBitALU
+-- Loading entity generic_function
+-- Loading entity carryChain
+-- Compiling entity ps2
+-- Compiling architecture test of ps2
+-- Loading entity oneBitALU
+
+} {} {}} C:/Users/Henry/Documents/workspace/5462/pj_complete/pj3.vhdl {2 {vcom -work work -2002 -explicit -stats=none C:/Users/Henry/Documents/workspace/5462/pj_complete/pj3.vhdl
+Model Technology ModelSim PE Student Edition vcom 10.3c Compiler 2014.07 Jul 19 2014
+-- Loading package STANDARD
+-- Compiling entity eightBitALU
+-- Compiling architecture behavioral of eightBitALU
+-- Loading entity oneBitALU
+-- Compiling architecture good of eightBitALU
+-- Loading entity eightBitALU
+-- Compiling architecture structural of eightBitALU
+-- Loading entity eightBitALU
+** Warning: C:/Users/Henry/Documents/workspace/5462/pj_complete/pj3.vhdl(79): (vcom-1263) Configuration specification "all : oneBitALU" applies to no component instantiation statements.
+
+** Warning: [5] C:/Users/Henry/Documents/workspace/5462/pj_complete/pj3.vhdl(18): Nonresolved signal 'cOut' may have multiple sources.
+  Drivers:
+    C:/Users/Henry/Documents/workspace/5462/pj_complete/pj3.vhdl(91):Instantiation ALU7
+-- Compiling entity p3
+-- Compiling architecture test of p3
+-- Loading entity eightBitALU
+
+} {} {}}

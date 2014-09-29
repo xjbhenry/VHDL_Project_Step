@@ -8,9 +8,9 @@
 -------------------------------------------------------------------------------
 PACKAGE alu_op IS
  TYPE operations IS (op_A,op_B,op_notA,op_notB,op_AxorB,op_AorB,op_AandB,
-                 op_AnandB,op_AxnorB,op_0,op_1,op_incA,op_incB,op_decA,
-                 op_decB,op_negA,op_negB,op_AplusB,op_AplusBwC,
-                  op_AminB,op_AminBwC,op_BminA);
+                     op_AnandB,op_AxnorB,op_0,op_1,op_incA,op_incB,op_decA,
+                     op_decB,op_negA,op_negB,op_AplusB,op_AplusBwC,
+                     op_AminB,op_AminBwC,op_BminA);
  PROCEDURE BINADD (a, b: IN BIT_VECTOR;
                    c_in: IN BIT;
                    z_out: OUT BIT_VECTOR;
